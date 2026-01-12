@@ -3,7 +3,9 @@ Built a computer-vision control system using OpenCV to mirror a user’s arm mov
 
 This project is from a Lab for Introduction to Robotics course.
 It requires: 
+
 Ros2
+
 Ubuntu 20
 
 To run, you must also clone the following github repos:
